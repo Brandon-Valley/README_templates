@@ -1,5 +1,10 @@
 # This is a rank 1 header
-some normal text
+
+___
+
+## This is a table of contents
+
+[toc]
 
 # H1  
 some more text
@@ -17,6 +22,9 @@ Alternatively, for H1 and H2, a # style:
 # H1  
 some text under header 1
 ## H2
+
+**testing**
+
 some text under header 2
 ### H3
 #### H4
@@ -48,6 +56,7 @@ _Italic characters_
 __bold characters__
 ~~strikethrough text~~
 
+<u>underlined text</u>
 
 
 
