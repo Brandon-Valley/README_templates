@@ -1,3 +1,162 @@
+Link to a heading in the page
+## Chapter I
+...
+######[Go to Chapter IV ](#Chapter-IV)  
+######[Go to Chapter IV ](#chapter-iv)  
+## Chapter II
+...
+## Chapter III
+
+
+[Link that works in VS code and BB](#markdown-header-header-to-be-linked)  
+[Link that works in VS code and BB 3](#markdown-header-to-be-linked)  
+[Link that works in VS code and BB 2](#Header-to-be-linked)  
+
+
+
+
+
+
+
+
+
+
+
+
+## Header to be linked
+
+-----------------------------------------------------------------------------------
+
+[link that works in BB but not VS](#section)
+
+.  
+.  
+.  
+.  
+## Code and Syntax highlighting  <a name="section"></a>
+----------------------------------------------------------------------------------
+[????????link that works in BB but not VS](#section2)
+
+.  
+.  
+.  
+.  
+## section2
+----------------------------------------------------------------------------------
+..
+## Chapter IV
+..
+###### [Back to Chapter I](#Chapter-I)
+...
+[Link to a heading in the page](#Link-to-a-heading-in-the-page)
+
+
+
+
+----------------------------------------------------
+
+
+###My Heading
+
+The syntax could be
+
+[My Heading](#my-heading)
+[A](#my-heading)
+
+or
+
+[My Heading](#user-content-my-heading)
+
+------------------------------------------------------
+* [Configuration](README.md#markdown-header-configuration)
+
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+# Configuration
+------------------------------------------------------
+------------------------------------------------------
+* [Configuration2](#markdown-header-configuration2)
+
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+# Configuration2
+------------------------------------------------------
+------------------------------------------------------
+* [Configuration3](#markdown-header-configuration3)
+
+.  
+.  
+.  
+.  
+.  
+.  
+.  
+# markdown-header-configuration3
+------------------------------------------------------
+
+
+
+ 	
+
+I have more [^1](link) to say up here.
+
+
+
+
+
+sdf  
+sdf  
+sdf  
+sdf  
+sdf  
+sdf  
+sdf  
+
+
+
+
+
+
+
+
+[^1](link): To say down here.
+
+
+
+------------------------------------------------
+
+## Table of Contents
+
+* [Document Organization](#document-organization)
+
+...
+
+## Document Organization
+
+a  
+a  
+a  
+a  
+
+
+* [Document Organization](#markdown-header-document-organization)
+
+
+-------------------------------------------------------------------
+
+
+
+
 # This is a rank 1 header
 
 ___
@@ -179,7 +338,6 @@ Tables
 ---
 ___
 
-[link](#section)
 
 
 
